@@ -1,0 +1,5 @@
+/home/jsmit244/projects/camera/gradient_filter/build/CMakeFiles/rebuild_cache.dir
+/home/jsmit244/projects/camera/gradient_filter/build/CMakeFiles/edit_cache.dir
+/home/jsmit244/projects/camera/gradient_filter/build/CMakeFiles/magnitude_sobel.dir
+/home/jsmit244/projects/camera/gradient_filter/build/CMakeFiles/gaussian_smoothing.dir
+/home/jsmit244/projects/camera/gradient_filter/build/CMakeFiles/gradient_sobel.dir
